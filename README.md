@@ -1,8 +1,6 @@
 # RME-3212-Manufacturing-Process-with-CNC-Programming-Lab
 
 
-# RME-4111: Advanced Robotics Lab
-
 This repository contains documentation and results from the experiments conducted as part of the **RME-3212 Manufacturing Process with CNC Programming Lab** course at the Department of Robotics & Mechatronics Engineering, University of Dhaka.
 
 ---
